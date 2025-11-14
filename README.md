@@ -43,7 +43,7 @@ These roles keep me grounded, improve how I work with people, and make life much
 **Languages:** Python, C, C++  
 **ML/AI:** TensorFlow, PyTorch, Keras, Scikit-Learn  
 **Dev & Tools:** Git, GitHub, VS Code, PyCharm  
-**Others:** Flutter, NumPy, Matplotlib, basics of full-stack engineering  
+**Others:** Flutter, NumPy, Matplotlib
 
 ---
 
@@ -51,11 +51,7 @@ These roles keep me grounded, improve how I work with people, and make life much
 If you want to collaborate, talk ML, or brainstorm ideas, always happy to connect.
 
 - **LinkedIn:** https://linkedin.com/in/hegdesrinivasm  
-- **GitHub:** https://github.com/hegdesrinivasm  
-
----
-
-<p align="center">Thanks for visiting — the journey’s just getting started.</p>
+- **Instagram:** https://instagram.com/hegdesrinivasm
 
 <!--
 **hegdesrinivasm/hegdesrinivasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

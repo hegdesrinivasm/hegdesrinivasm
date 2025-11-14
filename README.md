@@ -1,61 +1,65 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=2600&pause=900&color=1F7A8C&center=true&vCenter=true&width=720&lines=Srinivas+Hegde+M;Applied+Machine+Learning+Enthusiast;Hackathon+Winner+%7C+AIML+Engineer" alt="Brand Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2800&pause=800&color=4B9CE2&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Srinivas.;AIML+Engineer+in+the+Making.;ML+Generalist+%7C+Deep+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hey, I'm Srinivas.</h1>
+<h1 align="center">Hi, I'm Srinivas 👋</h1>
 <p align="center">AIML Engineer • ML Generalist • Builder of Practical Systems</p>
 
 ---
 
-## 🌟 Who I Am  
-I’m a third-year AIML student who enjoys exploring the entire ML landscape — from classical ML to deep learning, from computer vision to signal analysis, and from modeling to deployment.  
-If something can be learned, optimized, or automated, I’m usually already curious about it.
+## 🌟 About Me  
+I’m a third-year AIML student who enjoys working across the machine learning spectrum — from classical ML to modern deep learning techniques, from vision to signal processing, and from model development to deployment.
 
-My interests span across:
+If it can be optimized, analyzed, automated, or reverse-engineered, I’m probably already curious about it.
+
+Current interests include:
 - Machine Learning & Deep Learning  
 - Computer Vision  
-- Speech & Signal Processing  
-- Full-stack ML apps  
-- Systems thinking & clean engineering  
+- Speech & Signal Analysis  
+- Full-stack ML-powered applications  
+- Clean, systemic software design  
 
 ---
 
-## 🚀 What I Love Building  
-I like taking real-world problems and turning them into working systems — fast prototypes, polished applications, or models that meaningfully improve a workflow.
+## 🚀 What I Build  
+I love tackling real-world problems and turning them into working systems — whether that's a prototype built in a sprint, a full application, or an ML model designed for actual use.
 
-I’ve been part of the winning team **Luminous** at:
-- **Nexathon 2025** — 24-hour national-level hackathon  
-- **DevHack (DevHost-2025)** — 36-hour national-level hackathon  
+I’m part of the winning team **Luminous**, champions of:
+- **Nexathon 2025** — 24-hour national hackathon  
+- **DevHack (DevHost-2025)** — 36-hour national hackathon  
 
-Hackathons taught me to move quickly, think clearly, and design solutions that are both smart and usable.
+These events taught me to think fast, build faster, and keep solutions practical.
 
 ---
 
-## 🎭 Outside the Technical Bubble  
-Engineering isn’t the only thing I do.  
-I’m also actively involved in the campus community:
+## 🎭 Outside the Technical Space  
+Apart from engineering, I enjoy contributing to my college community:
 
 - **Joint Cultural Secretary**, Bhoomika Kala Sangha  
-- Member of **IEEE VCET Student Branch**  
-- Contributor at **CoRE**, VCET’s research-driven peer-learning club  
+- Member, **IEEE VCET Student Branch**  
+- Active contributor at **CoRE**, VCET’s research-driven tech club  
 
-These roles give me balance — a mix of leadership, creativity, and teamwork beyond code and models.
+These roles keep life diverse — a mix of tech, creativity, and people.
 
 ---
 
-## 🧰 Tools I Work With  
+## 🧰 Tech I Work With  
 **Languages:** Python, C, C++  
-**ML & DL:** TensorFlow, PyTorch, Keras, Scikit-Learn  
-**Dev Tools:** Git, GitHub, VS Code, PyCharm  
-**Supporting Stack:** NumPy, Matplotlib, Flutter, basic full-stack development  
+**ML & DL:** PyTorch, TensorFlow, Keras, Scikit-Learn  
+**Tools:** Git, GitHub, VS Code, PyCharm  
+**Others:** NumPy, Matplotlib, Flutter, basics of full-stack development  
 
 ---
 
-## 📫 Want to Connect?  
-Whether you’re exploring ML ideas, working on something exciting, or just want to chat tech — I’m always open.
+## 📫 Connect with Me  
+If you want to collaborate, share ideas, or discuss anything ML-related — I’m always open.
 
 - **LinkedIn:** https://linkedin.com/in/hegdesrinivasm  
 - **GitHub:** https://github.com/hegdesrinivasm  
+
+---
+
+<p align="center">Thanks for stopping by — the journey’s just getting started.</p>
 
 <!--
 **hegdesrinivasm/hegdesrinivasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

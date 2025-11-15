@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=28&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Srinivas+%F0%9F%91%8B;AIML+Student+%7C+ML+Explorer;Always+Learning+Always+Building" alt="A runner banner" />
-</p>
-
 <h1 align="center">Hey, I'm Srinivas! 🤓</h1>
 <p align="center">AIML student • ML enthusiast • Curious builder</p>
 

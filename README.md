@@ -53,10 +53,6 @@ If you want to collaborate or just chat about ML, I’m always open to learning 
 - **Instagram:** https://instagram.com/hegdesrinivasm
 - **Reddit:** https://reddit.com/u/hegdesrinivasm
 
----
-
-<p align="center">Thanks for dropping by — learning never stops.</p>
-
 <!--
 **hegdesrinivasm/hegdesrinivasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

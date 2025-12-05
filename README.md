@@ -1,5 +1,5 @@
 <!-- Current code -->
-<h1 align="center">Hey y'all, Srinivas here!</h1>
+<h1 align="center">Hey there, Srinivas here!</h1>
 
 <p align="center">
   I am a third-year AIML student bridging the gap between <b>theory and deployment</b>.<br>
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Key Focus Areas
+## Key Focus Areas
 I enjoy working on problems where ML makes processes smoother. My current interests include:
 * **Deep Learning:** Building models that solve vision and signal-based problems.
 * **System Design:** Moving from a simple Python script to a deployable application.
@@ -22,15 +22,15 @@ I enjoy working on problems where ML makes processes smoother. My current intere
 
 ---
 
-## 🏆 Achievements
+## Achievements
 **Member of Team Luminous**
 We focus on building fast, effective solutions under pressure.
-* 🥇 **Winner:** Nexathon 2025 (24-hour National Hackathon)
-* 🥇 **Winner:** DevHack / DevHost-2025 (36-hour National Hackathon)
+* **Winner:** Nexathon 2025 (24-hour National Hackathon)
+* **Winner:** DevHack / DevHost-2025 (36-hour National Hackathon)
 
 ---
 
-## 🏛️ Leadership & Community
+## Leadership & Community
 I believe in balancing technical skills with people skills.
 * **Student Co-ordinator:** Ankuram Annual College Magazine Editorial Board
 * **Joint Cultural Secretary:** Bhoomika Kala Sangha
@@ -39,7 +39,7 @@ I believe in balancing technical skills with people skills.
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
@@ -51,7 +51,7 @@ I believe in balancing technical skills with people skills.
 ---
 
 <p align="center">
-  <i>Always open to collaborating on ML-driven applications.</i>
+  Always open to collaborating on ML-driven applications.
 </p>
 <!-- upto here -->
 

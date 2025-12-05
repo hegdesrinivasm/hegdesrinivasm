@@ -1,11 +1,8 @@
 <!-- Current code -->
-<h1 align="center">Srinivas</h1>
-<p align="center">
-  <b>AIML Student</b> • <b>Hackathon Winner</b> • <b>Community Leader</b>
-</p>
+<h1 align="center">Hey y'all, Srinivas here!</h1>
 
 <p align="center">
-  I am a third-year student bridging the gap between <b>theory and deployment</b>.<br>
+  I am a third-year AIML student bridging the gap between <b>theory and deployment</b>.<br>
   I focus on building practical ML solutions in Computer Vision and Signal Analysis.
 </p>
 

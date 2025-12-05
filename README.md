@@ -1,3 +1,58 @@
+<!-- Current code -->
+<h1 align="center">Hi there, I'm Srinivas! 👋</h1>
+<h3 align="center">AIML Student • Curious Builder • Hackathon Winner</h3>
+
+<p align="center">
+  I explore the gap between <b>theory and deployment</b>. <br>
+  Currently focused on building practical ML solutions in Computer Vision and Signal Analysis.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hegdesrinivasm">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/hegdesrinivasm">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://reddit.com/u/hegdesrinivasm">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+</p>
+
+---
+
+### 🏆 Achievements
+I am a core member of **Team Luminous**. We build fast and effective solutions under pressure.
+* 🥇 **Winner:** Nexathon 2025 (24-hour National Hackathon)
+* 🥇 **Winner:** DevHack / DevHost-2025 (36-hour National Hackathon)
+
+---
+
+### 🏛️ Community & Leadership
+I believe in balancing code with community. My current roles include:
+* **Student Co-ordinator:** Ankuram Annual College Magazine Editorial Board
+* **Joint Cultural Secretary:** Bhoomika Kala Sangha
+* **Member:** IEEE VCET Student Branch
+* **Contributor:** CoRE (Research-driven peer-learning club)
+
+---
+
+### 🛠️ Tech Stack
+I use these tools to bring my ideas to life:
+
+| **Languages** | **Machine Learning** | **Tools & Others** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
+
+---
+
+<p align="center">
+  <i>Open to collaborating on ML-driven applications. Feel free to reach out!</i>
+</p>
+<!-- upto here -->
+
+
+<!-- Version 1
 <h1 align="center">Hey, I'm Srinivas! 🤓</h1>
 <p align="center">AIML student • ML enthusiast • Curious builder</p>
 
@@ -52,8 +107,10 @@ If you want to collaborate or just chat about ML, I’m always open to learning 
 - **LinkedIn:** https://linkedin.com/in/hegdesrinivasm  
 - **Instagram:** https://instagram.com/hegdesrinivasm
 - **Reddit:** https://reddit.com/u/hegdesrinivasm
+-->
 
-<!--
+
+<!-- Default
 **hegdesrinivasm/hegdesrinivasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

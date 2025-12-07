@@ -2,8 +2,7 @@
 <h1 align="center">Hey there, Srinivas here!</h1>
 
 <p align="center">
-  I am a third-year AIML student bridging the gap between <b>theory and deployment</b>.<br>
-  I focus on building practical ML solutions in Computer Vision and Signal Analysis.
+  I am a third-year AIML student bridging the gap between <b>theory and deployment</b>
 </p>
 
 <p align="center">

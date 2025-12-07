@@ -2,10 +2,6 @@
 <h1 align="center">Hey there, Srinivas here!</h1>
 
 <p align="center">
-  I am a third-year AIML student bridging the gap between <b>theory and deployment</b>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/hegdesrinivasm">LinkedIn</a> •
   <a href="https://github.com/hegdesrinivasm">GitHub</a> •
   <a href="https://instagram.com/hegdesrinivasm">Instagram</a>

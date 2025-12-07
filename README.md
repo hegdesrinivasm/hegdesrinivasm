@@ -13,6 +13,17 @@
 
 ---
 
+## Technical Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C, C++ |
+| **ML Frameworks** | TensorFlow, PyTorch, Keras, Scikit-Learn |
+| **Development** | Git, VS Code, PyCharm |
+| **Other** | NumPy, Matplotlib, Flutter |
+
+---
+
 ## Key Focus Areas
 I enjoy working on problems where ML makes processes smoother. My current interests include:
 * **Deep Learning:** Building models that solve vision and signal-based problems.
@@ -35,17 +46,6 @@ I believe in balancing technical skills with people skills.
 * **Joint Cultural Secretary:** Bhoomika Kala Sangha
 * **Member:** IEEE VCET Student Branch
 * **Contributor:** CoRE (Research-driven peer-learning club)
-
----
-
-## Technical Toolkit
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C, C++ |
-| **ML Frameworks** | TensorFlow, PyTorch, Keras, Scikit-Learn |
-| **Development** | Git, VS Code, PyCharm |
-| **Other** | NumPy, Matplotlib, Flutter |
 
 ---
 

@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hegdesrinivasm">LinkedIn</a> •
-  <a href="https://github.com/hegdesrinivasm">GitHub</a> •
   <a href="https://instagram.com/hegdesrinivasm">Instagram</a>
 </p>
 

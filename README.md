@@ -10,14 +10,14 @@
 ---
 
 ## Technical Toolkit
-
+<p align="center">
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, C, C++ |
 | **ML Frameworks** | TensorFlow, PyTorch, Keras, Scikit-Learn |
 | **Development** | Git, VS Code, PyCharm |
 | **Other** | NumPy, Matplotlib, Flutter |
-
+</p>
 ---
 
 ## Key Focus Areas
@@ -27,24 +27,6 @@ I enjoy working on problems where ML makes processes smoother. My current intere
 * **Prototyping:** Rapidly testing ideas to see what works practically.
 
 ---
-
-## Achievements
-**Member of Team Luminous**
-We focus on building fast, effective solutions under pressure.
-* **Winner:** Nexathon 2025 (24-hour National Hackathon)
-* **Winner:** DevHack / DevHost-2025 (36-hour National Hackathon)
-
----
-
-## Leadership & Community
-I believe in balancing technical skills with people skills.
-* **Student Co-ordinator:** Ankuram Annual College Magazine Editorial Board
-* **Joint Cultural Secretary:** Bhoomika Kala Sangha
-* **Member:** IEEE VCET Student Branch
-* **Contributor:** CoRE (Research-driven peer-learning club)
-
----
-
 <p align="center">
   Always open to collaborating on ML-driven applications.
 </p>

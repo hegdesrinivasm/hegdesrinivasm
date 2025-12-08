@@ -10,14 +10,14 @@
 ---
 
 ## Technical Toolkit
-<p align="center">
+
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, C, C++ |
 | **ML Frameworks** | TensorFlow, PyTorch, Keras, Scikit-Learn |
 | **Development** | Git, VS Code, PyCharm |
 | **Other** | NumPy, Matplotlib, Flutter |
-</p>
+
 ---
 
 ## Key Focus Areas

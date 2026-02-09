@@ -12,18 +12,10 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C, C++ |
+| **Languages** | Python, C, C++, Java |
 | **ML Frameworks** | TensorFlow, PyTorch, Keras, Scikit-Learn |
-| **Development** | Git, VS Code, PyCharm |
+| **Development** | Git, VS Code |
 | **Other** | NumPy, Matplotlib, Flutter |
-
----
-
-## Key Focus Areas
-I enjoy working on problems where ML makes processes smoother. My current interests include:
-* **Deep Learning:** Building models that solve vision and signal-based problems.
-* **System Design:** Moving from a simple Python script to a deployable application.
-* **Prototyping:** Rapidly testing ideas to see what works practically.
 
 ---
 <p align="center">

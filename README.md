@@ -19,7 +19,7 @@
 
 ---
 <p align="center">
-  Always open to collaborating on ML-driven applications.
+  Stay hungry, stay foolish.
 </p>
 <!-- upto here -->
 

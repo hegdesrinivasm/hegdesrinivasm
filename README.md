@@ -1,7 +1,8 @@
 <!-- Current code -->
-<h1 align="center">Hey there, Srinivas here!</h1>
+<img src="assets/username-banner.svg" width="100%">
 
 <p align="center">
+  <a href="docs/Srinivas Hegde M.pdf">Resume</a> •
   <a href="https://linkedin.com/in/hegdesrinivasm">LinkedIn</a> •
   <a href="https://instagram.com/hegdesrinivasm">Instagram</a>
 </p>
